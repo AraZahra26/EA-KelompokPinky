@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Communication"
+    id="id-01ee4bd9f8c84c2b9d4107a16976f87d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-35138746ab854117b6242816d5e1ef3f">
+    <bounds
+        x="744"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-d677cc2e7cdf47368689f168733262ce.xml#id-d677cc2e7cdf47368689f168733262ce"/>
+  </children>
+</archimate:ArchimateDiagramModel>

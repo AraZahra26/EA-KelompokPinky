@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Gap Analysis"
+    id="id-cdf55926df1b4dad851f1c96159b0c6e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-23b27824fb324458ae750879f5bfce24">
+    <bounds
+        x="406"
+        y="154"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-d677cc2e7cdf47368689f168733262ce.xml#id-d677cc2e7cdf47368689f168733262ce"/>
+  </children>
+</archimate:ArchimateDiagramModel>

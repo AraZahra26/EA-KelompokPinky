@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organization View (Baseline)"
+    name="Organization Decomposition"
     id="id-160d2414de5b4fc6958cb7f81b136fd8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
