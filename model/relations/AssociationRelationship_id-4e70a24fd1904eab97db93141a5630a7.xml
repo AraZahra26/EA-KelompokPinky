@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAN connection"
+    id="id-4e70a24fd1904eab97db93141a5630a7">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-ed9cc53f5e984be3b57a39d3340b6469.xml#id-ed9cc53f5e984be3b57a39d3340b6469"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-9ee2ea034eda4dd092dbe8935a0f56e2.xml#id-9ee2ea034eda4dd092dbe8935a0f56e2"/>
+</archimate:AssociationRelationship>
